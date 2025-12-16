@@ -8,7 +8,7 @@ A full-stack expense tracking application built with GraphQL, React, TypeScript,
 - **Transaction Management**: Create, read, update, and delete transactions
 - **Category Statistics**: Visualize spending by category
 - **Profile Pictures**: Automatic avatar generation based on gender
-- **Responsive Design**: Built with Tailwind CSS and Framer Motion
+- **Responsive Design**: Built with CSS and Framer Motion
 - **Type Safety**: Full TypeScript support on the frontend
 
 ## 🛠️ Tech Stack
@@ -25,7 +25,7 @@ A full-stack expense tracking application built with GraphQL, React, TypeScript,
 - **React 18** with TypeScript
 - **Vite** for blazing fast development
 - **Apollo Client** for GraphQL queries
-- **Tailwind CSS** for styling
+- **CSS** for styling
 - **React Router** for navigation
 - **Chart.js** for data visualization
 - **Framer Motion** for animations
